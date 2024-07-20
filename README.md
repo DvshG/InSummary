@@ -33,7 +33,7 @@ The application uses a POST request to Hugging Face's BART-Large-CNN model to su
 
    ```bash
    git clone https://github.com/yourusername/insummary.git
-   cd in-summary
+   cd insummary
    ```
 2. Install dependencies:
 
@@ -61,13 +61,13 @@ npm start
 Contributions are welcome! Please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch ```bash git checkout -b feature/your-feature ```.
-3. Commit your changes ```bash git commit -m 'Add some feature```.
-4. Push to the branch ```bash git push origin feature/your-feature```.
+2. Create a new branch ```git checkout -b feature/your-feature```
+3. Commit your changes ```git commit -m 'Add some feature'```
+4. Push to the branch ```git push origin feature/your-feature```
 5. Open a pull request.
 
 ## Requirements
 - Node.js (v14.x or later)
 - npm
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
